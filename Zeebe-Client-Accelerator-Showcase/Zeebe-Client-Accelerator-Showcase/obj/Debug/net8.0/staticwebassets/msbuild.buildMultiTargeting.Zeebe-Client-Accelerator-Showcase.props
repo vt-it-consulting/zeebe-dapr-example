@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Zeebe-Client-Accelerator-Showcase.props" />
+</Project>

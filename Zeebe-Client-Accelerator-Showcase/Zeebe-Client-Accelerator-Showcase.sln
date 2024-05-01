@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zeebe-Client-Accelerator-Showcase", "Zeebe-Client-Accelerator-Showcase\Zeebe-Client-Accelerator-Showcase.csproj", "{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zeebe-Client-Accelerator-Showcase-Test", "Zeebe-Client-Accelerator-Showcase-Test\Zeebe-Client-Accelerator-Showcase-Test.csproj", "{39D18874-A2FD-46D2-B8FE-ACF187742575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39D18874-A2FD-46D2-B8FE-ACF187742575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D18874-A2FD-46D2-B8FE-ACF187742575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D18874-A2FD-46D2-B8FE-ACF187742575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D18874-A2FD-46D2-B8FE-ACF187742575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {377F625B-408C-492E-950D-FBD1E0B81415}
+	EndGlobalSection
+EndGlobal

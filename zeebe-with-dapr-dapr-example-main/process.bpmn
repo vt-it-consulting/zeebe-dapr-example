@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:di="http://www.omg.org/spec/DD/20100524/DI" xmlns:zeebe="http://camunda.org/schema/zeebe/1.0" id="Definitions_0z68obe" targetNamespace="http://bpmn.io/schema/bpmn" exporter="Camunda Modeler" exporterVersion="5.19.0">
+  <bpmn:process id="zeebe-test" isExecutable="true">
+    <bpmn:startEvent id="StartEvent_calc">
+      <bpmn:outgoing>Flow_08zneaw</bpmn:outgoing>
+    </bpmn:startEvent>
+    <bpmn:endEvent id="EndEvent_calc">
+      <bpmn:incoming>Flow_1n5fz7m</bpmn:incoming>
+    </bpmn:endEvent>
+    <bpmn:serviceTask id="Activity_calc" name="Payment Service">
+      <bpmn:extensionElements>
+        <zeebe:taskDefinition type="payment-binding" retries="2" />
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_08zneaw</bpmn:incoming>
+      <bpmn:outgoing>Flow_1qqryjp</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="Activity_0fbgm9r" name="Inventory Service">
+      <bpmn:extensionElements>
+        <zeebe:taskDefinition type="inventory-binding" retries="2" />
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_1qqryjp</bpmn:incoming>
+      <bpmn:outgoing>Flow_0xa3awe</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:serviceTask id="Activity_1kevvo4" name="Shipment Service">
+      <bpmn:extensionElements>
+        <zeebe:taskDefinition type="shipment-binding" retries="2" />
+      </bpmn:extensionElements>
+      <bpmn:incoming>Flow_0xa3awe</bpmn:incoming>
+      <bpmn:outgoing>Flow_1n5fz7m</bpmn:outgoing>
+    </bpmn:serviceTask>
+    <bpmn:sequenceFlow id="Flow_08zneaw" sourceRef="StartEvent_calc" targetRef="Activity_calc" />
+    <bpmn:sequenceFlow id="Flow_1qqryjp" sourceRef="Activity_calc" targetRef="Activity_0fbgm9r" />
+    <bpmn:sequenceFlow id="Flow_0xa3awe" sourceRef="Activity_0fbgm9r" targetRef="Activity_1kevvo4" />
+    <bpmn:sequenceFlow id="Flow_1n5fz7m" sourceRef="Activity_1kevvo4" targetRef="EndEvent_calc" />
+  </bpmn:process>
+  <bpmn:message id="Message_143id7o" name="start-calc" />
+  <bpmn:message id="Message_04nrwno" name="finish-calc">
+    <bpmn:extensionElements>
+      <zeebe:subscription correlationKey="=result" />
+    </bpmn:extensionElements>
+  </bpmn:message>
+  <bpmndi:BPMNDiagram id="BPMNDiagram_1">
+    <bpmndi:BPMNPlane id="BPMNPlane_1" bpmnElement="zeebe-test">
+      <bpmndi:BPMNShape id="_BPMNShape_StartEvent_2" bpmnElement="StartEvent_calc">
+        <dc:Bounds x="179" y="99" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_1eoj541_di" bpmnElement="Activity_calc">
+        <dc:Bounds x="340" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Event_1uulfg3_di" bpmnElement="EndEvent_calc">
+        <dc:Bounds x="1062" y="99" width="36" height="36" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_016ezax_di" bpmnElement="Activity_0fbgm9r">
+        <dc:Bounds x="570" y="77" width="100" height="80" />
+        <bpmndi:BPMNLabel />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNShape id="Activity_0ee9jzs_di" bpmnElement="Activity_1kevvo4">
+        <dc:Bounds x="800" y="77" width="100" height="80" />
+      </bpmndi:BPMNShape>
+      <bpmndi:BPMNEdge id="Flow_08zneaw_di" bpmnElement="Flow_08zneaw">
+        <di:waypoint x="215" y="117" />
+        <di:waypoint x="340" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1qqryjp_di" bpmnElement="Flow_1qqryjp">
+        <di:waypoint x="440" y="117" />
+        <di:waypoint x="570" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_0xa3awe_di" bpmnElement="Flow_0xa3awe">
+        <di:waypoint x="670" y="117" />
+        <di:waypoint x="800" y="117" />
+      </bpmndi:BPMNEdge>
+      <bpmndi:BPMNEdge id="Flow_1n5fz7m_di" bpmnElement="Flow_1n5fz7m">
+        <di:waypoint x="900" y="117" />
+        <di:waypoint x="1062" y="117" />
+      </bpmndi:BPMNEdge>
+    </bpmndi:BPMNPlane>
+  </bpmndi:BPMNDiagram>
+</bpmn:definitions>

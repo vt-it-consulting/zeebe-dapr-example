@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\zeebe-client-accelerator-showcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\zeebe-client-accelerator-showcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\controllers\\showcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\controllers\\showcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\processvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\processvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\worker\\accountserviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\worker\\accountserviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\processconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\processconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39D18874-A2FD-46D2-B8FE-ACF187742575}|Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase-test\\processtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39D18874-A2FD-46D2-B8FE-ACF187742575}|Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj|solutionrelative:zeebe-client-accelerator-showcase-test\\processtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\worker\\shipmentserviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,26 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\worker\\payloadserviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\worker\\payloadserviceworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\controllers\\showcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\controllers\\showcasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\processvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\processvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase\\processconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5FCA25F7-3DC9-41AD-8CF6-A2C9F003EAE8}|Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj|solutionrelative:zeebe-client-accelerator-showcase\\processconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39D18874-A2FD-46D2-B8FE-ACF187742575}|Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase-test\\processtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39D18874-A2FD-46D2-B8FE-ACF187742575}|Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj|solutionrelative:zeebe-client-accelerator-showcase-test\\processtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39D18874-A2FD-46D2-B8FE-ACF187742575}|Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\zeebe-client-accelerator--examples-showcase\\zeebe-client-accelerator-showcase-test\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,28 +70,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "InventoryServiceWorker.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Title": "ProcessVariables.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:43:10.334Z",
+              "WhenOpened": "2024-05-02T11:13:44.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\appsettings.Development.json",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\appsettings.Development.json",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T11:08:11.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\appsettings.json",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\appsettings.json",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\appsettings.json",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T11:08:08.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AccountServiceWorker.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:57:00.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zeebe-Client-Accelerator-Showcase.csproj",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Zeebe-Client-Accelerator-Showcase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T15:00:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowcaseController.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAMwB0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:56:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Program.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Program.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Program.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAiwDUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:55:51.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProcessTest.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T13:57:28.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessConstants.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:02:21.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "PayloadServiceWorker.cs",
               "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\PayloadServiceWorker.cs",
               "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\PayloadServiceWorker.cs",
@@ -92,119 +204,62 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProcessConstants.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 10,
+              "Title": "InventoryServiceWorker.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
+              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
+              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBTwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:02:21.013Z"
+              "WhenOpened": "2024-05-01T14:43:10.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Zeebe-Client-Accelerator-Showcase-Test.csproj",
               "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj",
               "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj",
               "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj",
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAABKwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T13:57:42.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountServiceWorker.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAABOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:57:00.696Z",
+              "WhenOpened": "2024-05-01T13:57:42.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowcaseController.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAmwCgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:56:40.535Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ShipmentServiceWorker.cs",
               "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\ShipmentServiceWorker.cs",
               "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Worker\\ShipmentServiceWorker.cs",
               "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Worker\\ShipmentServiceWorker.cs",
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\ShipmentServiceWorker.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBTwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T14:44:05.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProcessVariables.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:02:21.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProcessTest.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAqwA4AAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:57:28.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Program.cs",
-              "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Program.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Program.cs",
-              "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Program.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAACsAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:55:51.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "process.bpmn",
               "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Resources\\process.bpmn",
               "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase\\Resources\\process.bpmn",
               "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase\\Resources\\process.bpmn",
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Resources\\process.bpmn",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBTwAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-01T13:55:58.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\Zeebe-Client-Accelerator--examples-Showcase\\Zeebe-Client-Accelerator-Showcase-Test\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "Zeebe-Client-Accelerator-Showcase-Test\\GlobalUsings.cs",

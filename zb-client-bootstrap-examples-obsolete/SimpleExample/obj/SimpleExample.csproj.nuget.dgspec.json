@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer-Git\\Camunda\\examples\\SimpleExample\\SimpleExample.csproj": {}
+    "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleExample\\SimpleExample.csproj": {}
   },
   "projects": {
-    "D:\\Developer-Git\\Camunda\\examples\\SimpleExample\\SimpleExample.csproj": {
+    "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleExample\\SimpleExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer-Git\\Camunda\\examples\\SimpleExample\\SimpleExample.csproj",
+        "projectUniqueName": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleExample\\SimpleExample.csproj",
         "projectName": "SimpleExample",
-        "projectPath": "D:\\Developer-Git\\Camunda\\examples\\SimpleExample\\SimpleExample.csproj",
+        "projectPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleExample\\SimpleExample.csproj",
         "packagesPath": "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer-Git\\Camunda\\examples\\SimpleExample\\obj\\",
+        "outputPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -40,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

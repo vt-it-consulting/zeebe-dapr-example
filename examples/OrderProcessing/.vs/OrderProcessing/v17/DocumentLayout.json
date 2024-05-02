@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\",
+  "WorkspaceRootPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|d:\\developer-git\\camunda\\examples\\orderprocessing\\orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\examples\\orderprocessing\\orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|d:\\developer-git\\camunda\\examples\\orderprocessing\\orderprocessing\\orderprocessing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|d:\\developer-git\\camunda\\zeebe-dapr-example\\examples\\orderprocessing\\orderprocessing\\orderprocessing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D22CBE8C-3567-4AE9-BA53-F72F726A66DB}|OrderProcessing\\OrderProcessing.csproj|solutionrelative:orderprocessing\\orderprocessing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\OrderProcessing\\Program.cs",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\OrderProcessing\\Program.cs",
               "RelativeDocumentMoniker": "OrderProcessing\\Program.cs",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\OrderProcessing\\Program.cs",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\OrderProcessing\\Program.cs",
               "RelativeToolTip": "OrderProcessing\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -36,19 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderProcessing",
-              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+              "Title": "OrderProcessing.csproj",
+              "DocumentMoniker": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
               "RelativeDocumentMoniker": "OrderProcessing\\OrderProcessing.csproj",
-              "ToolTip": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+              "ToolTip": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
               "RelativeToolTip": "OrderProcessing\\OrderProcessing.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-02T10:25:33.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+              "WhenOpened": "2024-05-02T10:25:33.059Z"
             }
           ]
         }

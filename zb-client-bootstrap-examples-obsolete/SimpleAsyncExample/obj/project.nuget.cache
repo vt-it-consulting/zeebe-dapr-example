@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9tGerUSNx+MD6c/3N+2m7bmLFxtaAYGG48lAKyEfrSvMzbWtH28hZnnG6OuPK+OD2n0QCBHMJOkSqAXEBeAp1Q==",
+  "dgSpecHash": "7nyqJqHjoVY=",
   "success": true,
-  "projectFilePath": "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
+  "projectFilePath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\google.apis\\1.46.0\\google.apis.1.46.0.nupkg.sha512",
     "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\google.apis.auth\\1.46.0\\google.apis.auth.1.46.0.nupkg.sha512",

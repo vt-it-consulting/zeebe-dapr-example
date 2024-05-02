@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Zeebe-Client-Accelerator-Showcase-Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34df16d7589a128cc1a2d8e4bd1eb5f555526618")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44c38bab321e3274c41077789140152a351b148b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Zeebe-Client-Accelerator-Showcase-Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Zeebe-Client-Accelerator-Showcase-Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

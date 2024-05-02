@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E/RX9m4eSCVa7dc+STHCeqAWSYmX4SYnFleYK8zdTGTXZdz165dwHvqg/NCvvUL4rnCMnU5oCehpvn5UcP7K5w==",
+  "dgSpecHash": "ulLnjzm1S6tRJwTcj7bMHZYmJNvlyfzO8tZypsuCWnPuFlQXUldZvcAGI/ElgmHTEs6VSVhuWllwLYeF0aeSqA==",
   "success": true,
-  "projectFilePath": "D:\\Developer-Git\\Camunda\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
+  "projectFilePath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\examples\\OrderProcessing\\OrderProcessing\\OrderProcessing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\google.apis\\1.46.0\\google.apis.1.46.0.nupkg.sha512",
     "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\google.apis.auth\\1.46.0\\google.apis.auth.1.46.0.nupkg.sha512",

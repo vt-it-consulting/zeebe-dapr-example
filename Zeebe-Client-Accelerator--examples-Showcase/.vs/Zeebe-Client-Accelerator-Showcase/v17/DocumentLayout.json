@@ -70,8 +70,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -82,8 +86,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessVariables.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T11:13:44.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T11:13:44.284Z"
             },
             {
               "$type": "Document",
@@ -95,8 +98,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T11:08:11.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T11:08:11.329Z"
             },
             {
               "$type": "Document",
@@ -108,8 +110,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-02T11:08:08.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T11:08:08.199Z"
             },
             {
               "$type": "Document",
@@ -121,8 +122,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\AccountServiceWorker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:57:00.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:57:00.696Z"
             },
             {
               "$type": "Document",
@@ -147,8 +147,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Controllers\\ShowcaseController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAMwB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:56:40.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:56:40.535Z"
             },
             {
               "$type": "Document",
@@ -160,8 +159,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAiwDUAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:55:51.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:55:51.548Z"
             },
             {
               "$type": "Document",
@@ -173,8 +171,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase-Test\\ProcessTest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T13:57:28.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:57:28.797Z"
             },
             {
               "$type": "Document",
@@ -186,8 +183,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\ProcessConstants.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:02:21.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T14:02:21.013Z"
             },
             {
               "$type": "Document",
@@ -199,8 +195,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\PayloadServiceWorker.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAqwA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:11:21.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T14:11:21.587Z"
             },
             {
               "$type": "Document",
@@ -212,12 +207,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\InventoryServiceWorker.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAIBTwBEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:43:10.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+              "WhenOpened": "2024-05-01T14:43:10.334Z"
             },
             {
               "$type": "Document",
@@ -229,8 +219,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase-Test\\Zeebe-Client-Accelerator-Showcase-Test.csproj",
               "ViewState": "AQIAAA0AAAAAAAAAAABKwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-01T13:57:42.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T13:57:42.876Z"
             },
             {
               "$type": "Document",
@@ -242,8 +231,7 @@
               "RelativeToolTip": "Zeebe-Client-Accelerator-Showcase\\Worker\\ShipmentServiceWorker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBTwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-01T14:44:05.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-01T14:44:05.868Z"
             },
             {
               "$type": "Document",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsFX6mQV8Sd4+SPPLwUS04Mp8d91MQx1CaVXlX6QzKwhOypMUdU9Jh1CfzNpoN+4/DG7Pv5H/4fUgb1qVc/aEw==",
+  "dgSpecHash": "Ei/V6LHOrps=",
   "success": true,
-  "projectFilePath": "D:\\Developer-Git\\Camunda\\examples\\ClientApp\\ClientApp.csproj",
+  "projectFilePath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\ClientApp\\ClientApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

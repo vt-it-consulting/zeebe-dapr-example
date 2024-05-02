@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Developer-Git\\Camunda\\examples\\ClientApp\\ClientApp.csproj",
+      "projectUniqueName": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\ClientApp\\ClientApp.csproj",
       "projectName": "ClientApp",
-      "projectPath": "D:\\Developer-Git\\Camunda\\examples\\ClientApp\\ClientApp.csproj",
+      "projectPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\ClientApp\\ClientApp.csproj",
       "packagesPath": "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\",
-      "outputPath": "D:\\Developer-Git\\Camunda\\examples\\ClientApp\\obj\\",
+      "outputPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\ClientApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,6 +47,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {

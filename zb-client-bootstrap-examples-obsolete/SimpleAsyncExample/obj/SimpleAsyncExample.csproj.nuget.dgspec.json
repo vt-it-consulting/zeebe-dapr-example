@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\SimpleAsyncExample.csproj": {}
+    "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\SimpleAsyncExample.csproj": {}
   },
   "projects": {
-    "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\SimpleAsyncExample.csproj": {
+    "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\SimpleAsyncExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
+        "projectUniqueName": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
         "projectName": "SimpleAsyncExample",
-        "projectPath": "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
+        "projectPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\SimpleAsyncExample.csproj",
         "packagesPath": "C:\\Users\\VTITConsultingUG\\.nuget\\packages\\",
-        "outputPath": "D:\\Developer-Git\\Camunda\\examples\\SimpleAsyncExample\\obj\\",
+        "outputPath": "D:\\Developer-Git\\Camunda\\zeebe-dapr-example\\zb-client-bootstrap-examples-obsolete\\SimpleAsyncExample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -40,6 +40,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {

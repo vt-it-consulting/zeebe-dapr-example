@@ -15,7 +15,9 @@ public class OrderProcessingController : ControllerBase
     private readonly IZeebeClient _zeebeClient;
     private readonly IZeebeVariablesSerializer _variablesSerializer;
 
-    public OrderProcessingController(ILogger<OrderProcessingController> logger, IZeebeClient zeebeClient,
+    public OrderProcessingController(
+        ILogger<OrderProcessingController> logger, 
+        IZeebeClient zeebeClient,
         IZeebeVariablesSerializer variablesSerializer)
     {
         _logger = logger;
